@@ -1,11 +1,40 @@
-.topo {
+header {
     background-color: #582C4D;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 65px;
+}
+
+footer {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    background: #582C4D;
+    height: 50px;
 }
 
 body {
     overflow-x: hidden;
+    height: 800px;
 }
 
 .letramaisecura {
     color: #582C4D;
+}
+
+.cursosEcertificados {
+    background-color: #e5989b;
+}
+
+.certificados {
+    height: 450px;
+    overflow-y: auto
+}
+
+.itens {
+    background-color: #582C4D;
+    color: aliceblue;
 }
