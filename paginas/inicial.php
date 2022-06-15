@@ -6,5 +6,10 @@
             </div>
         </div>
     </div>
-
+</div>
+<img src="https://via.placeholder.com/1400x450" alt="">
+<div class="container">
+    <a href="01"></a>
+    <a href="01"></a>
+    <a href="01"></a>
 </div>

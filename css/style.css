@@ -1,3 +1,7 @@
 .topo {
     background-color: #582C4D;
 }
+
+body {
+    overflow-x: hidden;
+}
