@@ -7,9 +7,10 @@
         </div>
     </div>
 </div>
-<img src="https://via.placeholder.com/1400x450" alt="">
+<!-- https://via.placeholder.com/1400x450 -->
+<img src="img/QuemSou01.png" alt="" class="mt-2">
 <div class="container">
-    <a href="01"></a>
-    <a href="01"></a>
-    <a href="01"></a>
+    <a href=""></a>
+    <a href=""></a>
+    <a href=""></a>
 </div>
