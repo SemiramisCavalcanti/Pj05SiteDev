@@ -16,3 +16,13 @@
         <a href="https://www.linkedin.com/in/semiramis-cavalcanti-01a18013b/" class="link-light text-decoration-none ms-3"> <i class="fab fa-instagram"></i> </a>
     </div>
 </div>
+<div class="container letraescura mt-5"> <h2>Cursos e Certificados</h2> </div>
+
+<div class="row">
+    <div class="col text-center" width="300">
+        <!-- Curso --> <h4></h4>
+        <!-- Instituição --> <h5></h5>
+        <!-- Professor --> <h5></h5>
+        <img src="" alt="" width="250">
+    </div>
+</div>
