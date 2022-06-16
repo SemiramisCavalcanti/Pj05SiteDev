@@ -1,0 +1,19 @@
+body {
+    background-color: #6B0F1A;
+}
+
+.base {
+    background: #EEE5E9;
+    color: #6B0F1A;
+    height: 150px;
+}
+
+.base2 {
+    background: #6B0F1A;
+    color: #EEE5E9;
+    height: 50px;
+}
+
+.letraescura {
+    color: #6B0F1A;
+}

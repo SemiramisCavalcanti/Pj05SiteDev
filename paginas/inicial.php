@@ -18,7 +18,7 @@
                 <div class="card-body">
                     <h5 class="card-title">Blog Estudantes Iniciantes</h5>
                     <p class="card-text">Projeto desenvolvido no curso de Programador Web - Senac PE;</p>
-                    <a href="#" class="btn btn-outline-light" target="_blank">Go somewhere</a>
+                    <a href="?pg=blogIniciantes" class="btn btn-outline-light" target="_blank">Go somewhere</a>
                 </div>
             </div>
         </div>  

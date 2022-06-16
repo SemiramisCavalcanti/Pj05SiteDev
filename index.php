@@ -14,10 +14,13 @@ if ($pg) {
             include_once 'paginas/include/footer.php';
             break;
 
-        case 
+        case 'blogIniciantes':
+            include_once "projetos/linkBios/index.php";
+            break;
+      
 
-    
-        
+
+
             // FIM PAGINA INDEX DO SITE PRINCIPAL
 
         default:
@@ -28,7 +31,7 @@ if ($pg) {
     }
 } else {
     //não existe   
-    include_once 'aginas/include/header.php';
+    include_once 'paginas/include/header.php';
     include_once 'paginas/inicial.php';
     include_once 'paginas/include/footer.php';
 }
