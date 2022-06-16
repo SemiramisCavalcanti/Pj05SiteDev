@@ -8,11 +8,13 @@ if ($pg) {
 
     switch ($_GET['pg']) {
 
-        case 'landingPageMayra':
+        case 'estudosEprojetos':
             include_once 'paginas/include/header.php';
             include_once 'paginas/inicial.php';
             include_once 'paginas/include/footer.php';
             break;
+
+        case 
 
     
         
@@ -26,7 +28,7 @@ if ($pg) {
     }
 } else {
     //não existe   
-    include_once 'paginas/include/header.php';
+    include_once 'aginas/include/header.php';
     include_once 'paginas/inicial.php';
     include_once 'paginas/include/footer.php';
 }

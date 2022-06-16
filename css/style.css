@@ -7,18 +7,12 @@ header {
     height: 65px;
 }
 
-footer {
-    width: 100%;
-    position: fixed;
-    bottom: 0;
-    right: 0;
-    background: #582C4D;
-    height: 50px;
-}
-
 body {
     overflow-x: hidden;
-    height: 800px;
+}
+
+.topo {
+    background-color: #582C4D;
 }
 
 .letramaisecura {
@@ -31,10 +25,20 @@ body {
 
 .certificados {
     height: 450px;
-    overflow-y: auto
+    overflow-y: auto;
 }
 
 .itens {
     background-color: #582C4D;
     color: aliceblue;
 }
+
+
+/* footer {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    background: #582C4D;
+    height: 50px;
+} */
